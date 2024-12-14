@@ -1,5 +1,7 @@
 # staffdb
 
-This is some "code" (yes, it's not the greatest code, but that wasn't the point) for the DC-7 challenge.
+Since this CRM was setup from a contract between external agency and GDRLAB IT, github was the best platform to share the config files and scripts.
 
-This isn't a flag, btw, but if you have made it here, well done anyway.  :-)
+# Note to administrators
+
+Please change the login password.
